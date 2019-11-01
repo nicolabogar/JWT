@@ -1,0 +1,14 @@
+D:\Autenticacao\App.AthenticationService.Solution\App.AthenticationService\bin\Debug\netcoreapp2.2\App.AthenticationService.deps.json
+D:\Autenticacao\App.AthenticationService.Solution\App.AthenticationService\bin\Debug\netcoreapp2.2\App.AthenticationService.runtimeconfig.json
+D:\Autenticacao\App.AthenticationService.Solution\App.AthenticationService\bin\Debug\netcoreapp2.2\App.AthenticationService.runtimeconfig.dev.json
+D:\Autenticacao\App.AthenticationService.Solution\App.AthenticationService\bin\Debug\netcoreapp2.2\App.AthenticationService.dll
+D:\Autenticacao\App.AthenticationService.Solution\App.AthenticationService\obj\Debug\netcoreapp2.2\App.AthenticationService.csproj.CoreCompileInputs.cache
+D:\Autenticacao\App.AthenticationService.Solution\App.AthenticationService\obj\Debug\netcoreapp2.2\App.AthenticationService.RazorAssemblyInfo.cache
+D:\Autenticacao\App.AthenticationService.Solution\App.AthenticationService\obj\Debug\netcoreapp2.2\App.AthenticationService.RazorAssemblyInfo.cs
+D:\Autenticacao\App.AthenticationService.Solution\App.AthenticationService\obj\Debug\netcoreapp2.2\App.AthenticationService.AssemblyInfoInputs.cache
+D:\Autenticacao\App.AthenticationService.Solution\App.AthenticationService\obj\Debug\netcoreapp2.2\App.AthenticationService.AssemblyInfo.cs
+D:\Autenticacao\App.AthenticationService.Solution\App.AthenticationService\obj\Debug\netcoreapp2.2\App.AthenticationService.RazorTargetAssemblyInfo.cache
+D:\Autenticacao\App.AthenticationService.Solution\App.AthenticationService\obj\Debug\netcoreapp2.2\App.AthenticationService.csprojAssemblyReference.cache
+D:\Autenticacao\App.AthenticationService.Solution\App.AthenticationService\bin\Debug\netcoreapp2.2\App.AthenticationService.pdb
+D:\Autenticacao\App.AthenticationService.Solution\App.AthenticationService\obj\Debug\netcoreapp2.2\App.AthenticationService.dll
+D:\Autenticacao\App.AthenticationService.Solution\App.AthenticationService\obj\Debug\netcoreapp2.2\App.AthenticationService.pdb
